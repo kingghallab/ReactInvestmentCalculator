@@ -8,7 +8,7 @@ This is a simple investment calculator web app built using React.js, developed a
 
 ```
 
-investment-calculator/
+ReactInvestmentCalculator/
 ├── public/
 │   └── investment-calculator-logo.png
 ├── src/
@@ -47,7 +47,7 @@ investment-calculator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kingghallab/investment-calculator.git
+git clone https://github.com/kingghallab/ReactInvestmentCalculator.git
 cd investment-calculator
 ````
 
