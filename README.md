@@ -1,4 +1,3 @@
-```markdown
 # 💰 Investment Calculator – React.js
 
 This is a simple investment calculator web app built using React.js, developed as a practice project while following [Maximilian Schwarzmüller](https://academind.com)'s React course. It allows users to input investment parameters and view a yearly breakdown of compound interest growth.
